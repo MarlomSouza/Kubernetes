@@ -1,3 +1,5 @@
+https://github.com/anubhavmishra/terraform-azurerm-aks
+
 Instalar o kubectl
  az aks install-cli
 
