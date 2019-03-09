@@ -1,3 +1,6 @@
+--Nao da para entrar com a minha conta
+https://stackoverflow.com/questions/26732711/to-sign-into-this-application-the-account-must-be-added-to-the-domain-com-direc
+
 https://github.com/anubhavmishra/terraform-azurerm-aks
 
 Instalar o kubectl
