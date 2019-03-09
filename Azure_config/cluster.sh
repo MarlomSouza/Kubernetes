@@ -1,5 +1,5 @@
 export client_id="hiagogouveia@somosdigix.onmicrosoft.com"
-export password="#$%ogaih20"
+export password="****"
 
 az login -u $client_id -p $password
 
