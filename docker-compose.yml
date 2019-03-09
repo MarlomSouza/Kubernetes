@@ -4,3 +4,5 @@ services:
     image: "marlom1012/kubernetes:latest"
     ports:
      - "7070:80"
+  db:
+    

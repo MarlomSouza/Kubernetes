@@ -1,0 +1,34 @@
+[
+  {
+    "cloudName": "AzureCloud",
+    "id": "bba56753-ac29-453a-9e50-39d402a30ca3",
+    "isDefault": true,
+    "name": "Visual Studio Enterprise � MPN",
+    "state": "Enabled",
+    "tenantId": "febc1b7a-70b4-4780-8e0e-8dc4e2f6d1bf",
+    "user": {
+      "name": "marlomsouza@digix.com.br",
+      "type": "user"
+    }
+  },
+  {
+    "cloudName": "AzureCloud",
+    "id": "9123da86-59e9-4cf8-b9f2-b11c71337308",
+    "isDefault": false,
+    "name": "Microsoft Partner Network",
+    "state": "Enabled",
+    "tenantId": "0b7d0763-4b89-40fa-9dec-6eed7d82aad4",
+    "user": {
+      "name": "marlomsouza@digix.com.br",
+      "type": "user"
+    }
+  }
+]
+
+{
+  "appId": "abb79ebe-83db-48c2-9535-32e859801a40",
+  "displayName": "azure-cli-2019-02-21-12-21-53",
+  "name": "http://azure-cli-2019-02-21-12-21-53",
+  "password": "61365fe4-4146-4580-a863-be1d70d6ae65",
+  "tenant": "febc1b7a-70b4-4780-8e0e-8dc4e2f6d1bf"
+}

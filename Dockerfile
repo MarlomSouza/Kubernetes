@@ -14,5 +14,6 @@ RUN dotnet publish "kubernetes.csproj" -c Release -o /app
 
 FROM base AS final
 WORKDIR /app
+ENV ConnectionString=""
 COPY --from=publish /app .
 ENTRYPOINT ["dotnet", "kubernetes.dll"]
